@@ -1,0 +1,13 @@
+{
+  "name": "jumper-transration-template-message",
+  "version": "1.0.0",
+  "description": "英語のメッセージを日本語に翻訳する",
+  "main": "index.js",
+  "author": "Katsumi Takahashi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "papaparse": "^5.4.1"
+  }
+}
